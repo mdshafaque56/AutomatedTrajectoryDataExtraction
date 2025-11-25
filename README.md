@@ -1,4 +1,4 @@
-```markdown
+
 # Automated Vehicle Trajectory Extraction from Drone Video  
 *Intelligent Transportation Systems – Course Project (CP_B)*  
 
